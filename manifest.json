@@ -4,8 +4,8 @@
   "description": "Gérez et consultez vos plannings de travail avec horaires décalés",
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#080A12",
-  "theme_color": "#080A12",
+  "background_color": "#05070D",
+  "theme_color": "#05070D",
   "orientation": "portrait-primary",
   "icons": [
     {
